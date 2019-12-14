@@ -1,4 +1,4 @@
-        /* Prompt the length of password*/
+        /* This will prompt the length of password*/
 
         var passCharLength =
         prompt("Password character limit? Pick between 8 and 128 characters.");
